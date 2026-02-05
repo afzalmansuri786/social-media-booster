@@ -1,0 +1,11 @@
+*node_modules
+.backup
+.postman.requests
+orm_test_connection.py
+raw_test_connection.py
+.env
+__pycache__
+venv
+1db.py
+package_lock.json
+*1Campaigns.jsx
