@@ -218,4 +218,3 @@ curl --location 'http://127.0.0.1:8000/external/marketing-quote'
 * Start the **backend first**, then the frontend.
 * API testing is available via Swagger UI and You can use Postman as well.
 * Ensure ports **5173** and **8000** are available.
-
